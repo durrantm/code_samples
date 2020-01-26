@@ -10,6 +10,7 @@
   - C#
 - Frameworks
   - Chai 
+  - Rails
   - Rspec
   - Mocha
   - Jasmine 
