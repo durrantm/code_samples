@@ -23,6 +23,7 @@
    - Happy, Sad, Smoke
    - Suites and Examples
    - Multi Browser Testing  
+   - Before and Before Each for DRY code
 </br></br>
 
 The Javascript and Ruby examples are more complete and reflect languages I have used more extensively.</br>
