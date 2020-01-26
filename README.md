@@ -7,6 +7,7 @@
   - Python
   - Ruby
   - Java
+  - Bash
   - C#
 - Frameworks
   - Chai 
@@ -27,6 +28,7 @@
    - Happy, Sad, Smoke
    - Suites and Examples
    - Multi Browser Testing  
+   - Created Test Framework (Bash)
    - Before and Before Each for DRY code
  - Test Types
    - Unit
