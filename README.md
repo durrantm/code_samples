@@ -14,6 +14,7 @@
   - Rails
   - Rspec
   - Mocha
+  - Karma
   - My Own
   - Jasmine 
   - Selenium
