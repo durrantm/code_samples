@@ -19,6 +19,7 @@
   - Protractor 
  - Features
    - Tags
+   - Expect
    - Retry Flakies
    - Page Objects
    - ES6 Javascript
