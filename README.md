@@ -19,6 +19,7 @@
   - Protractor 
  - Features
    - Tags
+   - DSLs
    - Expect
    - Retry Flakies
    - Page Objects
