@@ -8,13 +8,13 @@
   - Ruby
   - C#
 - Frameworks
-  - Protractor 
-  - Mocha
   - Chai 
-  - Jasmine 
   - Rspec
+  - Mocha
+  - Jasmine 
   - Capybara
   - Selenium
+  - Protractor 
 </br>
 The Javascript and Ruby examples are more complete and reflect languages I have used more extensively.
 
