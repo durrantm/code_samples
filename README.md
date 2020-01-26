@@ -1,5 +1,12 @@
 # code_samples
 
-## Examples to show my use of
+## Examples to show tests I have written in different frameworks and languages
 
-Javascript, Protractor, Mocha, Chai, Jasmine, Rspec, Capybara, Selenium
+- Javascript
+- Protractor 
+- Mocha
+- Chai 
+- Jasmine 
+- Rspec
+- Capybara
+- Selenium
