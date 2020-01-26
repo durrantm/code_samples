@@ -1,11 +1,13 @@
 # Code Samples
 
-## Examples of tests I have written in different frameworks and languages
+## Examples of tests I have written in various frameworks and languages
 
-- Javascript
-- Python
-- Ruby
-- C#
+- Languages
+  - Javascript
+  - Python
+  - Ruby
+  - C#
+- Languages
 - Protractor 
 - Mocha
 - Chai 
