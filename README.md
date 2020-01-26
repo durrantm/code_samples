@@ -13,10 +13,7 @@
 - Rspec
 - Capybara
 - Selenium
-
-
+</br>
 The javascript and Ruby examples are more complete and reflect languages I have used more.
-
-\n
 
 Python and C# are intended as simple basic templates for languages I have used less.
