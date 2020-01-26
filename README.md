@@ -29,7 +29,7 @@
 The Javascript and Ruby examples are more complete and reflect languages I have used more extensively.</br>
 </br></br>
 You can see a number of youtube videos of me coding TDD/BDD exercises in Ruby and Javascript at:
-- [Ruby](https://www.youtube.com/playlist?list=PLrVQWs0-8fJx0X6PMFQa0xbzKzS1_v8Vz))
+- [Ruby](https://www.youtube.com/playlist?list=PLrVQWs0-8fJx0X6PMFQa0xbzKzS1_v8Vz)
 - [Javascript](https://www.youtube.com/playlist?list=PLrVQWs0-8fJzP8Rf8CY4zLna6MquJIlSb)
 </br></br> 
 
