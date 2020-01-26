@@ -19,6 +19,7 @@
  - Features
    - Tags
    - Page Objects
+   - ES6 Javascript
    - Happy, Sad, Smoke
    - Suites and Examples
    - Multi Browser Testing  
