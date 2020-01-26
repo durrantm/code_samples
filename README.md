@@ -1,6 +1,6 @@
 # Test Code Samples
 
-## Examples of tests I have written in different frameworks and languages
+## Examples of different frameworks and languages I have written tests in
 
 - Languages
   - Javascript
