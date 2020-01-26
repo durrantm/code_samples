@@ -12,8 +12,8 @@
   - Rspec
   - Mocha
   - Jasmine 
-  - Capybara
   - Selenium
+  - Capybara
   - Protractor 
 </br>
 The Javascript and Ruby examples are more complete and reflect languages I have used more extensively.
