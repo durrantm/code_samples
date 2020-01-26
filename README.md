@@ -18,4 +18,4 @@
 </br>
 The Javascript and Ruby examples are more complete and reflect languages I have used more extensively.
 
-Python and C# are intended as simple basic templates for languages I have used less recently.
+Python and C# are intended as basic templates for languages I have used less recently.
