@@ -1,10 +1,9 @@
-describe 'OLA - Student Loan Products', loan_type: 'dental', loan_type_code: 'GRDL', page_type: 'form', order: :defined do
-  p = load_page_objects 'ola'
+describe 'Loan Products', loan_type: 'dental', loan_type_code: 'GRDL', page_type: 'form', order: :defined do
+  p = load_page_objects 'loans'
   loans = load_loans
 
-
-  include OLAFormHelpers
-  include OLAFormSections
+  include LoanFormHelpers
+  include LoanFormSections
   include ExpectHelpers
   include SSNParts
   include LoanManagement
@@ -18,7 +17,7 @@ describe 'OLA - Student Loan Products', loan_type: 'dental', loan_type_code: 'GR
     end
   end
 
-  describe "Dental Loan General Information Page - First Name Left Blank" do
+  describe "Dental Loan General Information Page - First Name Left Blank", :retry => 2, :retry_wait => 5 do do
     it "has a general information form for dental student loans that is filled out incorrectly", :sad do
       goto_page_ola loans.loan_type_id.dental_loan
       ssn = DynamoActions.increment_ssn
