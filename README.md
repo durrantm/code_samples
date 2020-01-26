@@ -31,9 +31,7 @@
    - Unit
    - Integrated
    - Browser UI
-
 </br></br>
-
 The Javascript and Ruby examples are more complete and reflect languages I have used more extensively.</br>
 Ruby is the best example of Page Objects, Retries and Tags.</br>
 </br>
