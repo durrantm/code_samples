@@ -18,8 +18,8 @@
   - Protractor 
  - Features
    - Tags
-   - Page Objects
    - Retry Flakies
+   - Page Objects
    - ES6 Javascript
    - Happy, Sad, Smoke
    - Suites and Examples
