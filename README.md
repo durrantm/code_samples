@@ -19,6 +19,7 @@
  - Features
    - Tags
    - Page Objects
+   - Retry Flakies
    - ES6 Javascript
    - Happy, Sad, Smoke
    - Suites and Examples
