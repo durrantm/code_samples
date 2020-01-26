@@ -36,6 +36,6 @@ You can see a number of youtube videos of me coding TDD/BDD exercises in Ruby an
 - [Javascript](https://www.youtube.com/playlist?list=PLrVQWs0-8fJzP8Rf8CY4zLna6MquJIlSb)
 </br></br> 
 
-They include some example of another favourite activity - refactoring.<br>
+They include some examples of another favourite activity of mine - refactoring.<br>
 <br/>
 Python, C# and Java are intended as basic templates for languages I have used less recently.
