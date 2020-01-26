@@ -34,8 +34,7 @@ Ruby is the best example of Page Objects, Retries and Tags.</br>
 You can see a number of youtube videos of me coding TDD/BDD exercises in Ruby and Javascript at:
 - [Ruby](https://www.youtube.com/playlist?list=PLrVQWs0-8fJx0X6PMFQa0xbzKzS1_v8Vz)
 - [Javascript](https://www.youtube.com/playlist?list=PLrVQWs0-8fJzP8Rf8CY4zLna6MquJIlSb)
-</br></br> 
-
+</br>
 They include some simple examples of refactoring, which is another favourite activity of mine.<br>
 <br/>
 Python, C# and Java are intended as basic templates for languages I have used less recently.
