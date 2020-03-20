@@ -5,11 +5,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 //import org.openqa.selenium.firefox.FirefoxDriver;
 public class PG1 {
     public static void main(String[] args) {
-    	//System.setProperty("webdriver.gecko.driver","/usr/bin/geckodriver.exe");
-	//WebDriver driver = new FirefoxDriver();
-	//uncomment the above 2 lines and comment below 2 lines to use Chrome
-	System.setProperty("webdriver.chrome.driver","/user/bin/chromedriver.exe");
-	WebDriver driver = new ChromeDriver();
+      //System.setProperty("webdriver.gecko.driver","/usr/bin/geckodriver.exe");
+  //WebDriver driver = new FirefoxDriver();
+  //uncomment the above 2 lines and comment below 2 lines to use Chrome
+  System.setProperty("webdriver.chrome.driver","/user/bin/chromedriver.exe");
+  WebDriver driver = new ChromeDriver();
         String baseUrl = "http://google.com";
         String expectedTitle = "Google";
         String actualTitle = "";
