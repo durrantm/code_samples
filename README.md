@@ -2,7 +2,7 @@
 
 ## Examples of how to write simple tests in different frameworks and languages
 
-The Javascript and Ruby examples are more complete and reflect languages I have used more extensively.</br>
+The [Javascript](http://google.com) and Ruby examples are more complete and reflect languages I have used more extensively.</br>
 Ruby is the best example of Page Objects, Retries and Tags.</br>
 Python, C# and Java are intended as basic templates for languages I have used less recently or without webdriver.
 
