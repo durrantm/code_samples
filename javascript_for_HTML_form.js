@@ -25,11 +25,11 @@ const po = pageObjects;
   po.billingStreetHTML = row => `table#billing input#billing-street-${row}`;
   po.addressLineHTML = (newRowText, addressType, streetRowNum) => {
     const boldIt = streetRowNum > 2;
-    var [boldStart, boldEnd] = bolder(boldIt);
+    const [boldStart, boldEnd] = bolder(boldIt);
     return `${boldStart}${newRowText}${boldEnd}&nbsp;<input type=text id=${addressType}-street-${String(streetRowNum)}>`;
   };
   po.billingNewRowHTML = (billingNewRowText, billingNewRowNum, boldIt = false) => {
-    var [boldStart, boldEnd] = bolder(boldIt);
+    const [boldStart, boldEnd] = bolder(boldIt);
     return `${boldStart}${billingNewRowText}${boldEnd}&nbsp;<input type=text id=billing-street-${String(billingNewRowNum)}>`;
   };
   po.billingHTML = (streetNumLabel, streetNum) => {
@@ -38,7 +38,7 @@ const po = pageObjects;
 };
 
 const bolder = (boldIt = false) => {
-   let boldStart, boldEnd;
+   const boldStart, boldEnd;
    [boldStart, boldEnd] = boldIt ? ['<b>', '</b>'] : ['', ''];
    return ([boldStart, boldEnd]);
 };
@@ -95,7 +95,7 @@ const removeStreetAddressLine = () => {  // eslint-disable-line no-unused-vars
   else p('minimum is 2 address lines');
 };
 const copyHomeToBilling = () => {  // eslint-disable-line no-unused-vars
-  let homeRowsCount, billingRowsCount;
+  const homeRowsCount, billingRowsCount;
   const checkboxStatus = $(po.billingSameAsHome).prop('checked');
   if(checkboxStatus) {
     copyHomeStateToBilling(po.homeState);
