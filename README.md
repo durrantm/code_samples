@@ -1,6 +1,10 @@
-# Test Code Samples
+# Test Code Examples
 
-## Examples of different frameworks and languages I have written tests in
+## Examples of how to write simple tests in different frameworks and languages
+
+The Javascript and Ruby examples are more complete and reflect languages I have used more extensively.</br>
+Ruby is the best example of Page Objects, Retries and Tags.</br>
+Python, C# and Java are intended as basic templates for languages I have used less recently or without webdriver.
 
 - Languages
   - Javascript
@@ -38,13 +42,3 @@
    - Browser UI
 </br>
 
-The Javascript and Ruby examples are more complete and reflect languages I have used more extensively.</br>
-Ruby is the best example of Page Objects, Retries and Tags.</br>
-</br>
-You can see a number of youtube videos of me coding TDD/BDD exercises in Ruby and Javascript at:
-- [Ruby](https://www.youtube.com/playlist?list=PLrVQWs0-8fJx0X6PMFQa0xbzKzS1_v8Vz)
-- [Javascript](https://www.youtube.com/playlist?list=PLrVQWs0-8fJzP8Rf8CY4zLna6MquJIlSb)
-</br>
-They include some simple examples of refactoring, which is another favourite activity of mine.<br>
-<br/>
-Python, C# and Java are intended as basic templates for languages I have used less recently or not with webdriver.
